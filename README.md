@@ -12,12 +12,17 @@ This is the documentation repository for the One Day One Code journey, which tra
 
 ## Code of The Day
 ### 2025-01-02
-**a**
-- <meta charset="utf-8">
-- <meta name="description" content="Code of The Day - 2025-01-02 | One Day One Code">
-- <meta name="keywords" content="code of the day, one day one code">
-- <meta name="author" content="Rizsan Zainal M">
-- <meta name="viewport" content="width=device-width, initial-scale=1">
+**HTML Metadata**
+- `<meta charset="utf-8">`
+  Character Encoding Declaration: Specifies UTF-8 character encoding, ensuring proper display of various characters.
+- `<meta name="description" content="Code of The Day - 2025-01-02 | One Day One Code">`
+  Page Description Metadata: Provides a brief description of the page content, used by search engines for snippets.
+- `<meta name="keywords" content="code of the day, one day one code">`
+  Keyword Metadata: Lists keywords related to the page content, aiding in search engine indexing.
+- `<meta name="author" content="Rizsan Zainal M">`
+  Author Metadata: Identifies the author of the page, useful for documentation and attribution.
+- `<meta name="viewport" content="width=device-width, initial-scale=1">`
+  Viewport Configuration: Sets the viewport for responsive design, ensuring proper rendering on various devices.
 
 > "Kickstart your Code of The Day with One Day One Code to progressively implement and enhance your coding skills." - Rizsan Zainal M
 
