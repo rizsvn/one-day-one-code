@@ -1,4 +1,4 @@
-# One Day One Code
+# one-day-one-code
 This is the documentation repository for the One Day One Code journey, which tracks the progressive implementation and enhancement of coding skills through Code of The Day.
 
 ## Day Code Projects
@@ -11,6 +11,28 @@ This is the documentation repository for the One Day One Code journey, which tra
    | 2025-01-01_02 | [rizsvn.github.io/one-day-one-code/2025-01-01_02/](https://rizsvn.github.io/one-day-one-code/2025-01-01_02/) |
 
 ## Code of The Day
+### 2025-01-03
+**HTML Navigation on Header**
+- `<header class="nav-container">`
+  Defines the header section with a navigation container class.
+- `<div class="nav-logo">`
+  Defines the div section with a navigation logo container class.
+- `<h1>One Day One Code</h1>`
+  The main heading, displaying the site's title prominently.
+- `<nav class="nav-menu">`
+  A navigation menu container, used for grouping navigation links.
+- `<ul>`
+  An unordered list, the common structure for navigation menus.
+- `<li>`
+  A list item, representing a single navigation link.
+- `<a href="#">`
+  An anchor tag, creating a clickable link, with "#" as a placeholder URL.
+
+> "Kickstart your Code of The Day with One Day One Code to progressively implement and enhance your coding skills." - Rizsan Zainal M
+
+*#onedayonecode* *#codeoftheday*
+
+## Day Code Logs
 ### 2025-01-02
 **HTML Metadata**
 - `<meta charset="utf-8">`
@@ -24,11 +46,6 @@ This is the documentation repository for the One Day One Code journey, which tra
 - `<meta name="viewport" content="width=device-width, initial-scale=1">`
   Viewport Configuration: Sets the viewport for responsive design, ensuring proper rendering on various devices.
 
-> "Kickstart your Code of The Day with One Day One Code to progressively implement and enhance your coding skills." - Rizsan Zainal M
-
-*#onedayonecode* *#codeoftheday*
-
-## Day Code Logs
 ### 2025-01-01
 **HTML First**
 - `<!DOCTYPE html>`
