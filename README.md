@@ -8,7 +8,7 @@ This is the documentation repository for the One Day One Code journey, which tra
    | Day Code | Result |
    | - | - |
    | all day | [rizsvn.github.io/one-day-one-code/](https://rizsvn.github.io/one-day-one-code/) |
-   | 2025-01-01_02 | [rizsvn.github.io/one-day-one-code/2025-01-01_02/](https://rizsvn.github.io/one-day-one-code/2025-01-01_02/) |
+   | 2025-01-01_03 | [rizsvn.github.io/one-day-one-code/2025-01-01_03/](https://rizsvn.github.io/one-day-one-code/2025-01-01_03/) |
 
 ## Code of The Day
 ### 2025-01-03
