@@ -8,8 +8,8 @@ This is the documentation repository for the One Day One Code journey, which tra
    | Day Code | Result |
    | - | - |
    | all day | [rizsvn.github.io/one-day-one-code/](https://rizsvn.github.io/one-day-one-code/) |
-   | 2025-01-01_03 | [rizsvn.github.io/one-day-one-code/2025-01-01_03/](https://rizsvn.github.io/one-day-one-code/2025-01-01_03/) |
-   | 2025-01-04_31 | Scheduled publication |
+   | 2025-01-01_04 | [rizsvn.github.io/one-day-one-code/2025-01-01_04/](https://rizsvn.github.io/one-day-one-code/2025-01-01_04/) |
+   | 2025-01-05_31 | Scheduled publication |
    | 2025-02-01_28 | Awaiting publication |
    | 2025-03-01_31 | Under development |
 
