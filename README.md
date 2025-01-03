@@ -14,6 +14,36 @@ This is the documentation repository for the One Day One Code journey, which tra
    | 2025-03-01_31 | Under development |
 
 ## Code of The Day
+### 2025-01-04
+**CSS Initialization**
+- `<link rel="stylesheet" type="text/css" href="styles/style.css">`
+  Links external CSS file "style.css" for page styling.
+- 1. `<link rel="preconnect" href="https://fonts.googleapis.com">`
+     Establishes early connection to Google Fonts server for faster font loading.
+  2. `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>`
+     Preconnects to Google Fonts static content server, enabling cross-origin requests.
+  3. `<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">`
+     Imports Montserrat font family from Google Fonts with specified weights and styles.
+- `*, *::before, *::after { box-sizing: border-box; }`
+  Sets all elements to use border-box model, including pseudo-elements, for consistent sizing.
+- `body { ... }`
+  Applies base styles to the body element.
+  1. `font-family: 'Monserrat', sans-serif; `
+     Sets the default font to Montserrat, with sans-serif fallback.
+  2. `margin: 0;` `padding: 0;`
+     Resets default margin and padding for consistent layout.
+  3. `background-color: #0D1117;`
+     Sets the background color to a dark shade.
+  4. `color: #F0F6FC;`
+     Sets the default text color to a light shade.
+  5. `display: flex;` `flex-direction: column;`
+     Uses flexbox to arrange body content in a column.
+
+> "Kickstart your Code of The Day with One Day One Code to progressively implement and enhance your coding skills." - Rizsan Zainal M
+
+*#onedayonecode* *#codeoftheday*
+
+## Day Code Logs
 ### 2025-01-03
 **HTML Navigation on Header**
 - `<header class="nav-container">`
@@ -31,11 +61,6 @@ This is the documentation repository for the One Day One Code journey, which tra
 - `<a href="#">`
   An anchor tag, creating a clickable link, with "#" as a placeholder URL.
 
-> "Kickstart your Code of The Day with One Day One Code to progressively implement and enhance your coding skills." - Rizsan Zainal M
-
-*#onedayonecode* *#codeoftheday*
-
-## Day Code Logs
 ### 2025-01-02
 **HTML Metadata**
 - `<meta charset="utf-8">`
