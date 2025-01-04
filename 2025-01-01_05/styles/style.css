@@ -1,0 +1,77 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+body {
+/*	font-family: 'Monserrat', sans-serif;*/
+	font-family: "DM Mono", monospace;
+	margin: 0;
+	padding: 0;
+	background-color: #0D1117;
+/*	color: #F0F6FC;*/
+	color: #9198A1;
+	font-weight: lighter;
+	display: flex;
+	flex-direction: column;
+}
+.nav-container {
+	background-image: linear-gradient(to bottom, #010409ff, #010409bf, #01040980, #01040900);
+	position: sticky;
+	top: 0;
+	z-index: 9;
+	height: 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+	padding-block: 1rem;
+	margin-inline: auto;
+}
+.nav-container a {
+	line-height: 1rem;
+	text-decoration: none;
+	color: #c0c8ce;
+	font-weight: lighter;
+	transition: color 0.3s;
+}
+.nav-logo {
+	height: 32px;
+}
+.nav-logo .logo-nav {
+	margin: 0;
+	height: 100%;
+	width: auto;
+	object-fit: contain;
+	font-size: 1em;
+	font-weight: normal;
+	color: #F0F6FC;
+	line-height: 32px;
+}
+.nav-menu ul {
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	gap: 2rem;
+}
+.nav-menu li {
+	list-style-type: none;
+}
+.nav-container li a:hover {
+	color: #F0F6FC;
+	font-weight: normal;
+	transition: color 0.3s ease-in-out;
+}
+.nav-container li a.active {
+	color: #F0F6FC;
+	font-weight: normal;
+	transition: color 0.3s ease-in-out;
+}
+.nav-container li a.active::after {
+  content: "";
+  display: block;
+  width: 1em;
+  height: 0.1em;
+  background-color: #F0F6FC;
+  margin: 0 auto;
+}
